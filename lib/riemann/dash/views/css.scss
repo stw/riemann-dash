@@ -51,7 +51,7 @@ html,table {
   left: 3px;
   right: 3px;
   font-size: 12px;
- 
+
   input {
     background: $off-white;
     border: 1px solid $dark-grey;
@@ -177,7 +177,7 @@ html,table {
   color: #000;
 }
 .state.expired {
-  background: $purple;
+  background: $light-grey;
   color: #000;
 }
 
@@ -271,7 +271,7 @@ html,table {
   background-color:#000;
 }
 #simplemodal-container {
-  background-color:#fff; 
+  background-color:#fff;
   color: #000;
   padding:12px;
   border-radius: 4px;
@@ -357,7 +357,7 @@ h2 {
   .bar {
     position: static;
     display: block;
-    height: 100%;    
+    height: 100%;
   }
 
   .box {
@@ -390,7 +390,7 @@ h2 {
       }
     }
   }
-  
+
   tr > *:first-child {
     width: 1px;
   }
@@ -440,7 +440,7 @@ h2 {
     color: #000;
     opacity: 1;
   }
-  
+
   h2 {
     height: 28px;
     font-size: 24px;
